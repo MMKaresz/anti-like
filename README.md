@@ -1,2 +1,3 @@
 # anti-like
-Anti-like (AutoIt)
+
+Anti-like is written in AutoIt. The common problem can be the virus scanners.
