@@ -1,8 +1,11 @@
 # anti-likehunter
 
-This software is against the guerilla-liker-sharer sites. 
-(If you want to watch a video, you should share it on facebook first...)
+New functions in v0.2
+- 'Always on top' switch
+- Improved hit rate (png, gif pictures)
+- (almost) no duplicates at youtube links
 
-Anti-likehunter is written in AutoIt. The common problem can be the virus scanners.
-Try to install Autoit and run directly from source code!
+Download here:
+https://github.com/MMKaresz/anti-like/releases/tag/0.2
 
+![al](https://cloud.githubusercontent.com/assets/3893603/6870516/8b2985da-d494-11e4-80c1-d4b6f694982e.jpg)
